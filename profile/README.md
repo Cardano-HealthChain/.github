@@ -26,7 +26,7 @@ HealthChain is a multi-disciplinary system built on a modern, decentralized stac
 
 * **Blockchain:** **Cardano**
 * **Identity Layer:** **Atala PRISM** (for Decentralized Identifiers and Verifiable Credentials)
-* **Smart Contracts:** **Plutus** (for on-chain permissioning and governance)
+* **Smart Contracts:** **Aiken** (for on-chain permissioning and governance)
 * **Frontend:** **Next.js, TypeScript, & Tailwind** (as a Mobile-first PWA)
 * **AI Assistant:** **Gemini API** with Google Search grounding (for the HealthChain Assistant)
 
@@ -36,7 +36,7 @@ Our work is organized into several dedicated repositories. Here’s a guide to f
 
 * **`frontend-pwa`**: The primary user-facing application. This includes the **Resident PWA**, the **Clinic Web App**, and the **Health Authority Dashboard**.
 * **`api-service`**: The backend API gateway and off-chain services. This handles data encryption, off-chain storage, and the push notification service for alerts.
-* **`plutus-contracts`**: All Cardano smart contracts. This includes the Clinic DID Registry and the core VC Permissioning scripts.
+* **`aiken-contracts`**: All Cardano smart contracts. This includes the Clinic DID Registry and the core VC Permissioning scripts.
 * **`ml-assistant`**: The service handler for the "HealthChain Assistant" AI chatbot, managing integration with the Gemini API.
 * **`product-docs`**: The central source of truth for the project, containing our Product Requirements Document (PRD), MVP plans, and high-level architecture.
 
