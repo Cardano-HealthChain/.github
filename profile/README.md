@@ -1,6 +1,6 @@
 # Welcome to the HealthChain Venture
 
-**Empowering individuals with self-sovereign control over their health data while providing real-time intelligence for public health.**
+**Powered by the Cardano blockchain, HealthChain gives you full control over your medical records—securely stored, shared only with your consent, and supported by real-time health alerts that keep your community safe.**
 
 ---
 ![HealthChain App](https://github.com/Cardano-HealthChain/.github/blob/main/profile/healthchain.png)
