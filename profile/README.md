@@ -3,11 +3,11 @@
 **Empowering individuals with self-sovereign control over their health data while providing real-time intelligence for public health.**
 
 ---
-![HealthChain App](/healthchain.png)
+![HealthChain App](https://github.com/Cardano-HealthChain/.github/blob/main/profile/healthchain.png)
 
-![HealthChain App](/healthchain1.png)
+![HealthChain App](https://github.com/Cardano-HealthChain/.github/blob/main/profile/healthchain1.png)
 
-![HealthChain App](/healthchain2.png)
+![HealthChain App](https://github.com/Cardano-HealthChain/.github/blob/main/profile/healthchain2.png)
 
 
 ### About Our Project
