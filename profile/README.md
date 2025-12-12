@@ -3,11 +3,9 @@
 **Powered by the Cardano blockchain, HealthChain gives you full control over your medical records—securely stored, shared only with your consent, and supported by real-time health alerts that keep your community safe.**
 
 ---
-![HealthChain App](https://github.com/Cardano-HealthChain/.github/blob/main/profile/healthchain.png)
+![HealthChain App](https://github.com/Cardano-HealthChain/.github/blob/main/profile/healthchain.png) ![HealthChain App](https://github.com/Cardano-HealthChain/.github/blob/main/profile/healthchain1.png)
 
-![HealthChain App](https://github.com/Cardano-HealthChain/.github/blob/main/profile/healthchain1.png)
 
-![HealthChain App](https://github.com/Cardano-HealthChain/.github/blob/main/profile/healthchain2.png)
 
 
 ### About Our Project
@@ -31,7 +29,6 @@ Our development is guided by three core principles:
 HealthChain is a multi-disciplinary system built on a modern, decentralized stack:
 
 * **Blockchain:** **Cardano**
-* **Identity Layer:** **Atala PRISM** (for Decentralized Identifiers and Verifiable Credentials)
 * **Smart Contracts:** **Aiken** (for on-chain permissioning and governance)
 * **Frontend:** **Next.js, TypeScript, & Tailwind** (as a Mobile-first PWA)
 * **AI Assistant:** **Gemini API** with Google Search grounding (for the HealthChain Assistant)
