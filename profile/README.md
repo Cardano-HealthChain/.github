@@ -3,6 +3,8 @@
 **Empowering individuals with self-sovereign control over their health data while providing real-time intelligence for public health.**
 
 ---
+![HealthChain App](images/healthchain.png)
+
 
 ### About Our Project
 
